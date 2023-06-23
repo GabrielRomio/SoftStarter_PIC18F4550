@@ -9,4 +9,4 @@ both connected to the microcontroller. An LCD display shows all the data related
 The code was developed and compiled with the assistance of Microchip's MPLAB XC8 software.
 
 
-## Developed by Gabriel Romio
+Developed by Gabriel Romio
