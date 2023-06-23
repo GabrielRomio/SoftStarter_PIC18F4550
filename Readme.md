@@ -1,4 +1,4 @@
-## About it
+## SoftStarter_PIC18F4550
 
 This project consists of developing a soft-starter to perform the acceleration and deceleration of a three-phase motor.
 
@@ -8,5 +8,6 @@ both connected to the microcontroller. An LCD display shows all the data related
 
 The code was developed and compiled with the assistance of Microchip's MPLAB XC8 software.
 
+==============
 
 Developed by Gabriel Romio
